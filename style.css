@@ -1,0 +1,23 @@
+body{
+    background-color: pink;
+    margin: 0px;
+    padding: 0%;
+}
+.heading{
+    display: flex;
+    justify-content: space-evenly;
+}
+.text{
+    background-color: aquamarine;
+    text-align: center;
+}
+.box1{
+    background-color: aquamarine;
+    width: 20%;
+}
+.joo{
+    display: flex;
+}
+.chinni{
+    text-align: center;
+}
